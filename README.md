@@ -1,1 +1,2 @@
 # Thesis-work
+For my bachelor thesis, I developed a custom dataset for weed detection in Latvian tree nurseries using RGB camera imagery. The project included collecting and annotating raw data with CVAT, applying data preprocessing and augmentation techniques, converting annotations into YOLO format, and training deep learning models with YOLOv8 in PyTorch. I also conducted analysis on class distribution, dataset balance, and model performance to ensure robust results.
